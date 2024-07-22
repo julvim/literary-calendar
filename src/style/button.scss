@@ -1,0 +1,23 @@
+@import './variables';
+
+.button {
+    width: 290px;
+    height: 70px;
+    padding-top: 17px;
+    background: $bright;
+    border: 1px solid $bright;
+    border-radius: 33px;
+    font-size: 24px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    color: $bg-color;
+    box-shadow: 0 0 38.2px rgba(207, 110, 103, 0.36);
+    &:hover {
+        background: #dd9792;
+        transition: 0.5s;
+    }
+    &__months {
+        margin: 50px 25px 0 25px;
+    }
+}

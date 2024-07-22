@@ -1,0 +1,24 @@
+@import '../../style/variables.scss';
+
+.contacts__page {
+    position: relative;
+    text-align: center;
+    top: -50px;
+    .line {
+        position: absolute;
+        right: 220px;
+        top: -2px
+    }
+    .qr {
+        margin-top: 20px;
+        margin-bottom: 50px;
+        position: relative;
+    }
+    .email {
+        color: $bright;
+        font-size: 36px;
+        text-decoration: underline dotted $bright;
+        text-underline-offset: 15px;
+    }
+}
+

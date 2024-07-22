@@ -1,0 +1,12 @@
+@import '../../style/button.scss';
+
+.months__page {
+    position: relative;
+    text-align: center;
+    top: -50px;
+    .button {
+        margin: 50px 25px 0 25px;
+        cursor: pointer;
+        padding-top: 0;
+    }
+}

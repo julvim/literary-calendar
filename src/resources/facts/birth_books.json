@@ -1,0 +1,912 @@
+{
+  "1960": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee"
+    },
+    {
+      "title": "The Sirens of Titan",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "title": "Судьба человека",
+      "author": "Михаил Шолохов"
+    }
+  ],
+  "1961": [
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller"
+    },
+    {
+      "title": "Stranger in a Strange Land",
+      "author": "Robert A. Heinlein"
+    },
+    {
+      "title": "Поклонная гора",
+      "author": "Сергей Герасимов"
+    }
+  ],
+  "1962": [
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "author": "Ken Kesey"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess"
+    },
+    {
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1963": [
+    {
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath"
+    },
+    {
+      "title": "Cat's Cradle",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "title": "Защита Лужина",
+      "author": "Владимир Набоков"
+    }
+  ],
+  "1964": [
+    {
+      "title": "Herzog",
+      "author": "Saul Bellow"
+    },
+    {
+      "title": "The Last Gentleman",
+      "author": "Walker Percy"
+    },
+    {
+      "title": "Колымские рассказы",
+      "author": "Варлам Шаламов"
+    }
+  ],
+  "1965": [
+    {
+      "title": "Dune",
+      "author": "Frank Herbert"
+    },
+    {
+      "title": "Stonewall Jackson: The Man, The Soldier, The Legend",
+      "author": "James I. Robertson Jr."
+    },
+    {
+      "title": "Муха-Цокотуха",
+      "author": "Корней Чуковский"
+    }
+  ],
+  "1966": [
+    {
+      "title": "In Cold Blood",
+      "author": "Truman Capote"
+    },
+    {
+      "title": "The Moon Is a Harsh Mistress",
+      "author": "Robert A. Heinlein"
+    },
+    {
+      "title": "Собачье сердце",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1967": [
+    {
+      "title": "The Outsiders",
+      "author": "S. E. Hinton"
+    },
+    {
+      "title": "The Confessions of Nat Turner",
+      "author": "William Styron"
+    },
+    {
+      "title": "Идиот",
+      "author": "Федор Достоевский"
+    }
+  ],
+  "1968": [
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick"
+    },
+    {
+      "title": "The Teachings of Don Juan: A Yaqui Way of Knowledge",
+      "author": "Carlos Castaneda"
+    },
+    {
+      "title": "Сто лет одиночества",
+      "author": "Габриэль Гарсиа Маркес"
+    }
+  ],
+  "1969": [
+    {
+      "title": "The Godfather",
+      "author": "Mario Puzo"
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "title": "Воскресение",
+      "author": "Лев Толстой"
+    }
+  ],
+  "1970": [
+    {
+      "title": "I Know Why the Caged Bird Sings",
+      "author": "Maya Angelou"
+    },
+    {
+      "title": "Jonathan Livingston Seagull",
+      "author": "Richard Bach"
+    },
+    {
+      "title": "Портрет Дориана Грея",
+      "author": "Оскар Уайльд"
+    }
+  ],
+  "1971": [
+    {
+      "title": "The Exorcist",
+      "author": "William Peter Blatty"
+    },
+    {
+      "title": "Watership Down",
+      "author": "Richard Adams"
+    },
+    {
+      "title": "По́вести Бе́лкина",
+      "author": "Александр Пушкин"
+    }
+  ],
+  "1972": [
+    {
+      "title": "Watership Down",
+      "author": "Richard Adams"
+    },
+    {
+      "title": "Wheels",
+      "author": "Arthur Hailey"
+    },
+    {
+      "title": "Белая гвардия",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1973": [
+    {
+      "title": "Breakfast of Champions",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "title": "The Princess Bride",
+      "author": "William Goldman"
+    },
+    {
+      "title": "Игрок",
+      "author": "Федор Достоевский"
+    }
+  ],
+  "1974": [
+    {
+      "title": "Tinker Tailor Soldier Spy",
+      "author": "John le Carré"
+    },
+    {
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert M. Pirsig"
+    },
+    {
+      "title": "Матрёнин двор",
+      "author": "Александр Солженицын"
+    }
+  ],
+  "1975": [
+    {
+      "title": "Shōgun",
+      "author": "James Clavell"
+    },
+    {
+      "title": "Fear of Flying",
+      "author": "Erica Jong"
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк"
+    }
+  ],
+  "1976": [
+    {
+      "title": "Interview with the Vampire",
+      "author": "Anne Rice"
+    },
+    {
+      "title": "Roots: The Saga of an American Family",
+      "author": "Alex Haley"
+    },
+    {
+      "title": "Доктор Живаго",
+      "author": "Борис Пастернак"
+    }
+  ],
+  "1977": [
+    {
+      "title": "The Thorn Birds",
+      "author": "Colleen McCullough"
+    },
+    {
+      "title": "The Silmarillion",
+      "author": "J. R. R. Tolkien"
+    },
+    {
+      "title": "Белый Бим Чёрное ухо",
+      "author": "Гавриил Троепольский"
+    }
+  ],
+  "1978": [
+    {
+      "title": "The World According to Garp",
+      "author": "John Irving"
+    },
+    {
+      "title": "A Swiftly Tilting Planet",
+      "author": "Madeleine L'Engle"
+    },
+    {
+      "title": "Метель",
+      "author": "Александр Пушкин"
+    }
+  ],
+  "1979": [
+    {
+      "title": "Sophie's Choice",
+      "author": "William Styron"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams"
+    },
+    {
+      "title": "Волкодав",
+      "author": "Мария Семёнова"
+    }
+  ],
+  "1980": [
+    {
+      "title": "A Confederacy of Dunces",
+      "author": "John Kennedy Toole"
+    },
+    {
+      "title": "Cosmos",
+      "author": "Carl Sagan"
+    },
+    {
+      "title": "Лед и пламень",
+      "author": "Анна Ахматова"
+    }
+  ],
+  "1981": [
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie"
+    },
+    {
+      "title": "Cujo",
+      "author": "Stephen King"
+    },
+    {
+      "title": "Москва-Петушки",
+      "author": "Венедикт Ерофеев"
+    }
+  ],
+  "1982": [
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker"
+    },
+    {
+      "title": "The Gunslinger",
+      "author": "Stephen King"
+    },
+    {
+      "title": "Бесы",
+      "author": "Федор Достоевский"
+    }
+  ],
+  "1983": [
+    {
+      "title": "Foundation's Edge",
+      "author": "Isaac Asimov"
+    },
+    {
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco"
+    },
+    {
+      "title": "Война и мир",
+      "author": "Лев Толстой"
+    }
+  ],
+  "1984": [
+    {
+      "title": "Neuromancer",
+      "author": "William Gibson"
+    },
+    {
+      "title": "Blood Meridian",
+      "author": "Cormac McCarthy"
+    },
+    {
+      "title": "Анна Каренина",
+      "author": "Лев Толстой"
+    }
+  ],
+  "1985": [
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood"
+    },
+    {
+      "title": "Contact",
+      "author": "Carl Sagan"
+    },
+    {
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1986": [
+    {
+      "title": "Watchers",
+      "author": "Dean Koontz"
+    },
+    {
+      "title": "It",
+      "author": "Stephen King"
+    },
+    {
+      "title": "Мемуары Гейши",
+      "author": "Артур Голден"
+    }
+  ],
+  "1987": [
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison"
+    },
+    {
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami"
+    },
+    {
+      "title": "Собачье сердце",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1988": [
+    {
+      "title": "The Satanic Verses",
+      "author": "Salman Rushdie"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "author": "Thomas Harris"
+    },
+    {
+      "title": "Американская трагедия",
+      "author": "Теодор Драйзер"
+    }
+  ],
+  "1989": [
+    {
+      "title": "The Joy Luck Club",
+      "author": "Amy Tan"
+    },
+    {
+      "title": "A Prayer for Owen Meany",
+      "author": "John Irving"
+    },
+    {
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1990": [
+    {
+      "title": "Jurassic Park",
+      "author": "Michael Crichton"
+    },
+    {
+      "title": "The Bourne Ultimatum",
+      "author": "Robert Ludlum"
+    },
+    {
+      "title": "Солярис",
+      "author": "Станислав Лем"
+    }
+  ],
+  "1991": [
+    {
+      "title": "The Firm",
+      "author": "John Grisham"
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O'Brien"
+    },
+    {
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1992": [
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson"
+    },
+    {
+      "title": "American Pastoral",
+      "author": "Philip Roth"
+    },
+    {
+      "title": "Война и мир",
+      "author": "Лев Толстой"
+    }
+  ],
+  "1993": [
+    {
+      "title": "The Giver",
+      "author": "Lois Lowry"
+    },
+    {
+      "title": "The Shipping News",
+      "author": "Annie Proulx"
+    },
+    {
+      "title": "Преступление и наказание",
+      "author": "Федор Достоевский"
+    }
+  ],
+  "1994": [
+    {
+      "title": "The Alienist",
+      "author": "Caleb Carr"
+    },
+    {
+      "title": "The Road Ahead",
+      "author": "Bill Gates"
+    },
+    {
+      "title": "Белая гвардия",
+      "author": "Михаил Булгаков"
+    }
+  ],
+  "1995": [
+    {
+      "title": "The Golden Compass",
+      "author": "Philip Pullman"
+    },
+    {
+      "title": "The Children of Men",
+      "author": "P. D. James"
+    },
+    {
+      "title": "Метро 2033",
+      "author": "Дмитрий Глуховский"
+    }
+  ],
+  "1996": [
+    {
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace"
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin"
+    },
+    {
+      "title": "Идиот",
+      "author": "Федор Достоевский"
+    }
+  ],
+  "1997": [
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling"
+    },
+    {
+      "title": "Memoirs of a Geisha",
+      "author": "Arthur Golden"
+    },
+    {
+      "title": "Гарри Поттер и узник Азкабана",
+      "author": "Джоан Роулинг"
+    }
+  ],
+  "1998": [
+    {
+      "title": "American Gods",
+      "author": "Neil Gaiman"
+    },
+    {
+      "title": "The Poisonwood Bible",
+      "author": "Barbara Kingsolver"
+    },
+    {
+      "title": "Властелин колец",
+      "author": "Дж. Р. Р. Толкин"
+    }
+  ],
+  "1999": [
+    {
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski"
+    },
+    {
+      "title": "The Perks of Being a Wallflower",
+      "author": "Stephen Chbosky"
+    },
+    {
+      "title": "Азазель",
+      "author": "Борис Акунин"
+    }
+  ],
+  "2000": [
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel"
+    },
+    {
+      "title": "The Tipping Point",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "Москва-Петушки",
+      "author": "Венедикт Ерофеев"
+    }
+  ],
+  "2001": [
+    {
+      "title": "The Corrections",
+      "author": "Jonathan Franzen"
+    },
+    {
+      "title": "The Lovely Bones",
+      "author": "Alice Sebold"
+    },
+    {
+      "title": "Ночной дозор",
+      "author": "Сергей Лукьяненко"
+    }
+  ],
+  "2002": [
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown"
+    },
+    {
+      "title": "Триумфальная арка",
+      "author": "Эрих Мария Ремарк"
+    }
+  ],
+  "2003": [
+    {
+      "title": "The Curious Incident of the Dog in the Night-Time",
+      "author": "Mark Haddon"
+    },
+    {
+      "title": "Eragon",
+      "author": "Christopher Paolini"
+    },
+    {
+      "title": "Ангелы и демоны",
+      "author": "Дэн Браун"
+    }
+  ],
+  "2004": [
+    {
+      "title": "The Plot Against America",
+      "author": "Philip Roth"
+    },
+    {
+      "title": "The Five People You Meet in Heaven",
+      "author": "Mitch Albom"
+    },
+    {
+      "title": "Алхимик",
+      "author": "Пауло Коэльо"
+    }
+  ],
+  "2005": [
+    {
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro"
+    },
+    {
+      "title": "Freakonomics",
+      "author": "Steven D. Levitt"
+    },
+    {
+      "title": "Гарри Поттер и Принц-полукровка",
+      "author": "Джоан Роулинг"
+    }
+  ],
+  "2006": [
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy"
+    },
+    {
+      "title": "Eat, Pray, Love",
+      "author": "Elizabeth Gilbert"
+    },
+    {
+      "title": "Тень горы",
+      "author": "Грегори Дэвид Робертс"
+    }
+  ],
+  "2007": [
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot Díaz"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows",
+      "author": "J. K. Rowling"
+    },
+    {
+      "title": "Последнее желание",
+      "author": "Анджей Сапковский"
+    }
+  ],
+  "2008": [
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins"
+    },
+    {
+      "title": "Twilight",
+      "author": "Stephenie Meyer"
+    },
+    {
+      "title": "Остров покупок",
+      "author": "Александр Ильин"
+    }
+  ],
+  "2009": [
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson"
+    },
+    {
+      "title": "The Help",
+      "author": "Kathryn Stockett"
+    },
+    {
+      "title": "Шантарам",
+      "author": "Грегори Дэвид Робертс"
+    }
+  ],
+  "2010": [
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green"
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin"
+    },
+    {
+      "title": "Проект \"Горный миф\"",
+      "author": "Владимир Лесин"
+    }
+  ],
+  "2011": [
+    {
+      "title": "Ready Player One",
+      "author": "Ernest Cline"
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern"
+    },
+    {
+      "title": "Метро 2033",
+      "author": "Дмитрий Глуховский"
+    }
+  ],
+  "2012": [
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn"
+    },
+    {
+      "title": "The Casual Vacancy",
+      "author": "J. K. Rowling"
+    },
+    {
+      "title": "Лабиринты Ехо",
+      "author": "Макс Фрай"
+    }
+  ],
+  "2013": [
+    {
+      "title": "The Goldfinch",
+      "author": "Donna Tartt"
+    },
+    {
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman"
+    },
+    {
+      "title": "Армагеддон по-русски",
+      "author": "Андрей Ливадный"
+    }
+  ],
+  "2014": [
+    {
+      "title": "All the Light We Cannot See",
+      "author": "Anthony Doerr"
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir"
+    },
+    {
+      "title": "Туманность Андромеды",
+      "author": "Иван Яковлевич Ефремов"
+    }
+  ],
+  "2015": [
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins"
+    },
+    {
+      "title": "Go Set a Watchman",
+      "author": "Harper Lee"
+    },
+    {
+      "title": "Смешные истории",
+      "author": "Джером К. Джером"
+    }
+  ],
+  "2016": [
+    {
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead"
+    },
+    {
+      "title": "The Sellout",
+      "author": "Paul Beatty"
+    },
+    {
+      "title": "Орудия смерти: Колесо времени",
+      "author": "Кассандра Клэр"
+    }
+  ],
+  "2017": [
+    {
+      "title": "The Hate U Give",
+      "author": "Angie Thomas"
+    },
+    {
+      "title": "Turtles All the Way Down",
+      "author": "John Green"
+    },
+    {
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк"
+    }
+  ],
+  "2018": [
+    {
+      "title": "Circe",
+      "author": "Madeline Miller"
+    },
+    {
+      "title": "The Outsider",
+      "author": "Stephen King"
+    },
+    {
+      "title": "Дневник слабака",
+      "author": "Джефф Кинни"
+    }
+  ],
+  "2019": [
+    {
+      "title": "Normal People",
+      "author": "Sally Rooney"
+    },
+    {
+      "title": "The Testaments",
+      "author": "Margaret Atwood"
+    },
+    {
+      "title": "Заводной апельсин",
+      "author": "Энтони Бёрджесс"
+    }
+  ],
+  "2020": [
+    {
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett"
+    },
+    {
+      "title": "A Promised Land",
+      "author": "Barack Obama"
+    },
+    {
+      "title": "Один день Ивана Денисовича",
+      "author": "Александр Солженицын"
+    }
+  ],
+  "2021": [
+    {
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir"
+    },
+    {
+      "title": "Цветы для Элджернона",
+      "author": "Дэниел Киз"
+    }
+  ],
+  "2022": [
+    {
+      "title": "The Paper Palace",
+      "author": "Miranda Cowley Heller"
+    },
+    {
+      "title": "A Psalm for the Wild-Built",
+      "author": "Becky Chambers"
+    },
+    {
+      "title": "Анна Каренина",
+      "author": "Лев Толстой"
+    }
+  ],
+  "2023": [
+    {
+      "title": "The Maid",
+      "author": "Nita Prose"
+    },
+    {
+      "title": "A Warning",
+      "author": "Anonymous"
+    },
+    {
+      "title": "Метро 2033: Воспоминания метро",
+      "author": "Дмитрий Глуховский"
+    }
+  ],
+  "2024": [
+    {
+      "title": "The Man Who Died Twice",
+      "author": "Richard Osman"
+    },
+    {
+      "title": "The Magician",
+      "author": "Colm Tóibín"
+    },
+    {
+      "title": "Анна Каренина",
+      "author": "Лев Толстой"
+    }
+  ]
+}
