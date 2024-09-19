@@ -28,7 +28,6 @@ const MainPage = () => {
                 <span>Подбор <span className="text_highlighting">книги</span> по дате рождения!</span>
                 <LineSelection className="line" alt="decoration" /> <br/>
                 <Link to="/horoscope" className="button">Подобрать книгу</Link>
-
             </div>
         </div>
     )

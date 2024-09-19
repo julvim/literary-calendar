@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useLocation, Link } from 'react-router-dom';
 
 import logo from '../../resources/img/logo.svg';
-import './appHeader.scss'
+import './appHeader.scss';
 
 const AppHeader = () => {
     const location = useLocation();
